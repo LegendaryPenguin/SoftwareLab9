@@ -1,3 +1,6 @@
+// Nischay Rawal
+// Software Engineering Lab 9
+// This lab goes through the matrix operations in the previous lab such as add, multiply, change element, swap row, and swap columns
 
 #include <iostream>
 #include <vector>
